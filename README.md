@@ -18,6 +18,7 @@ Como Usar
 2. Execute o script:
    - No terminal, rode o comando `python gerador_senhas.py` (se for um script Python).
 3. Escolha as opções desejadas para a senha (comprimento, tipos de caracteres) e pressione "Gerar".
+ ou utilize um executor de python online
 
 Testes
 Para rodar os testes, execute:
